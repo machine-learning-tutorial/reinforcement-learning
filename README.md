@@ -1,4 +1,4 @@
-# Tutorial on basic reinforcement learning concepts concepts
+# Tutorial on basic reinforcement learning concepts
 
 <!-- [![DOI](https://zenodo.org/badge/759758400.svg)](https://zenodo.org/doi/10.5281/zenodo.10792272)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) -->
