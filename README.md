@@ -1,4 +1,4 @@
-# Tutorial on basic neural network concepts
+# Tutorial on basic reinforcement learning concepts concepts
 
 <!-- [![DOI](https://zenodo.org/badge/759758400.svg)](https://zenodo.org/doi/10.5281/zenodo.10792272)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) -->
@@ -10,10 +10,10 @@
 ## Material for this tutorial
 
 - The theoretical lecture can be found here:
-  <!-- - [Part 1: Introduction to reinforcement learning](https://github.com/machine-learning-tutorial/neural-networks/blob/main/slides/nns-part1.pdf) -->
+  - [Part 1: Introduction to reinforcement learning](https://github.com/machine-learning-tutorial/reinforcement-learning/blob/main/lectures/intro_to_RL.pdf)
 
-- The tutorial in slide form is here
-  <!-- - [Part 1: simple gridworld (no ML libraries)](https://machine-learning-tutorial.github.io/neural-networks/1-neural-networks.html#/) -->
+- The tutorial can be found here:
+  - [RL_simple_gridworld.ipynb](https://github.com/machine-learning-tutorial/reinforcement-learning/blob/main/RL_simple_gridworld.ipynb)
 
 ## Download the repository
 
