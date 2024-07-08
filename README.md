@@ -14,6 +14,23 @@
 
 - The tutorial can be found here:
   - [RL_simple_gridworld.ipynb](https://github.com/machine-learning-tutorial/reinforcement-learning/blob/main/RL_simple_gridworld.ipynb)
+ 
+## Citing the tutorial
+
+- This tutorial is registered in [Zenodo](https://zenodo.org/records/12649046).
+- Please use this DOI when citing this material: [https://doi.org/10.5281/zenodo.12649046](https://doi.org/10.5281/zenodo.12649046)
+
+```bibtex
+@software{santamaria_garcia_2024_12649046,
+  author       = {Santamaria Garcia, Andrea},
+  title        = {Tutorial on basic reinforcement learning concepts},
+  month        = jul,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.12649046},
+  url          = {https://doi.org/10.5281/zenodo.12649046}
+}
+```
 
 ## Download the repository
 
@@ -95,25 +112,4 @@ Use `cmd+Enter` to execute one cell block
 
 The first part of the tutorial is in `RL_simple_gridworld.ipynb`.
 
-## Citing the tutorial
 
-This tutorial is registered [Zenodo](https://zenodo.org/).
-Please use this DOI when citing this code:
-
-<!-- ```bibtex
-@software{santamaria_garcia_2024_10792273,
-  author       = {Santamaria Garcia, Andrea and
-                  Xu, Chenran},
-  title        = {Tutorial on basic neural network concepts},
-  month        = 03,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.10792273},
-  url          = {https://doi.org/10.5281/zenodo.10792273}
-}
-``` -->
-
-## Disclaimer
-
-The content of this repository was developed by the [AI4Accelerators team](https://www.ibpt.kit.edu/AI4Accelerators.php) at the [Institute of Beam Physics and Technology (IBPT)](https://www.ibpt.kit.edu/), [Karlsruhe Institute of Technology](https://www.kit.edu/english/).
