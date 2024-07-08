@@ -1,0 +1,14 @@
+abstract: <p>If you use this material (notebooks or lecture content) please cite it
+  as indicated</p>
+authors:
+- family-names: Santamaria Garcia
+  given-names: Andrea
+  orcid: 0000-0002-7498-7640
+cff-version: 1.2.0
+date-released: '2024-07-04'
+doi: 10.5281/zenodo.12649046
+license:
+- gpl-3.0-or-later
+repository-code: https://github.com/machine-learning-tutorial/reinforcement-learning/tree/v1.0.0
+title: Tutorial on basic reinforcement learning concepts
+type: software
