@@ -1,14 +1,17 @@
-abstract: <p>If you use this material (notebooks or lecture content) please cite it
-  as indicated</p>
-authors:
-- family-names: Santamaria Garcia
-  given-names: Andrea
-  orcid: 0000-0002-7498-7640
 cff-version: 1.2.0
-date-released: '2024-07-04'
-doi: 10.5281/zenodo.12649046
-license:
-- gpl-3.0-or-later
-repository-code: https://github.com/machine-learning-tutorial/reinforcement-learning/tree/v1.0.0
-title: Tutorial on basic reinforcement learning concepts
+title: "Introduction to Reinforcement Learning"
+version: 1.8.0
+license: "gpl-3.0-or-later"
 type: software
+abstract: "Introductory lecture and code to learn reinforcement learning from scratch"
+message: "If you use this material (notebooks or lecture content) please cite it
+  as indicated"
+authors:
+  - given-names: Andrea
+    family-names: Santamaria Garcia
+    affiliation: University of Liverpool and Cockcroft Institute
+    orcid: "https://orcid.org/0000-0002-7498-7640"
+keywords:
+  - machine learning
+  - reinforcement learning
+  - accelerator physics
